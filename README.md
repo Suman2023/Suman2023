@@ -6,12 +6,12 @@
 
 ## 🙋‍♂️ About Me
 
-<!--- 🔭 I’m currently working on **[Organ Donation Dapp](https://github.com/Project-Exhibition-1/Save-Life-Secure-Organ-Donation/)**
+🔭 I’m currently working on **[Music Player App](https://github.com/Suman2023/Music-Player/)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+<!-- <-- - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- ⚡ Fun fact **I love to code while travelling** -->
+- ⚡ Fun fact **I love to code while travelling** --> -->
 
 - 👨‍💻 All of my projects are available at **[My Github profile](https://github.com/Suman2023/)**
 
