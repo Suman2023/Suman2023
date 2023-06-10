@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Music Player App](https://github.com/Suman2023/Music-Player/)**
+- 🔭 I’m currently working on **[Student Hub Backend](https://github.com/Suman2023/studenthub-backend)**
 
 <!-- - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
