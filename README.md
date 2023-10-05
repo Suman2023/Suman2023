@@ -6,14 +6,16 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Student Hub Backend](https://github.com/Suman2023/studenthub-backend)**
+- 🔭 I’m currently working on Creating Full Python Series for Beginners **[Zero To Hero Python Series](https://www.youtube.com/playlist?list=PLRi3ShbxZaKznaKa5VEmy_wxt11imsWD2)**
 
 <!-- - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ Fun fact **I love to code while travelling** -->
 
-- 👨‍💻 All of my projects are available at **[My Github profile](https://github.com/Suman2023/)**
+- 👨‍💻 All of my projects are available here at **[My Github profile](https://github.com/Suman2023/)**
+
+- 🎥 I also make Youtube videoes related to Programming [@LetsCodeTogether](https://youtube.com/@letscodetogether)
 
 - 📫 How to reach me **sumanmitra202@gmail.com**
 
